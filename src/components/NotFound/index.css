@@ -1,0 +1,45 @@
+.not-found-bg-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.not-found-img {
+  width: 20%;
+}
+
+.lost-your-way {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.lost-your-way-description {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.not-found-bg-dark {
+  background-color: #000000;
+}
+
+.lost-your-way-dark-theme {
+  color: #ffffff;
+}
+
+.lost-your-way-light-theme {
+  color: #1e293b;
+}
+
+.lost-your-way-description-dark-theme {
+  color: #f8fafc;
+}
+.lost-your-way-description-light-theme {
+  color: #64748b;
+}

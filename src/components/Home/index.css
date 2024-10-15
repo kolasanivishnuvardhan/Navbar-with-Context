@@ -1,0 +1,41 @@
+.home-bg-container {
+  min-height: 100vh;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.home-name {
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+.light-theme {
+  color: #000000;
+}
+
+.home-light-img {
+  width: 30%;
+}
+
+.bg-dark {
+  background-color: #000000;
+}
+
+.dark-theme {
+  color: #000000;
+}
+
+.home-name-dark-theme {
+  color: #ffffff;
+}
+
+.home-name-light-theme {
+  color: #1e293b;
+}
